@@ -9,3 +9,6 @@ Date and time of the notes are also recorded.
 You can delete any note if it is not in use.
 
 Also, You can search for a particular note using any keyword in the searchbar.
+
+
+![See, how it looks like: ](img1.jpg?raw=true "Title")
